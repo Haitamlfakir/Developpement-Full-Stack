@@ -55,7 +55,7 @@ fullstack-page/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Haitamlfakir/Developpement-Full-Stack.git
 ```
 
 ### 2. Navigate to the project directory
@@ -130,7 +130,7 @@ screenshots/
 Full Stack Developer
 
 - GitHub: [Your GitHub Profile](https://github.com/)
-- Portfolio: [haitamlfakir.com](https://haitamlfakir.com)
+- Portfolio: [haitamlfakir.com]([https://haitamlfakir.com](https://haitam-s-portfolio.vercel.app/)
 
 ---
 
